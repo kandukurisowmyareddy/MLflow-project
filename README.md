@@ -1,6 +1,12 @@
-# MLflow Experiment Tracking
+# MLflow Experiment Tracking and Model Versioning
 
-This project demonstrates using MLflow for experiment tracking.
+This project demonstrates how to use MLflow for:
+
+- Experiment tracking (parameters, metrics)
+- Artifact logging (trained datasets, models)
+- Model versioning (with MLflow Model Registry)
+
+We use the **Iris dataset** and train **Random Forest Classifiers** with different hyperparameters.
 
 ## Files
 
